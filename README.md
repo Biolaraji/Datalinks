@@ -9,3 +9,7 @@ The analysis explored the data to identify patterns, trends, and anomalies to ga
 Excel (Pivot chart) visualisation was used to analyse the key metrics; unit sold, total sales, total profit in explaining popularity, demands and contribution of each products to the overall revenue.
 
 ![AbiolAdeyemo.png](AbiolaAdeyemo.png)
+
+[Project 2: MAZAM Cookies Company  Financial Report 2018/2019](https://github.com/Biolaraji?tab=repositories)
+
+!(MAZAM Cookies PowerBI Dashboard.png)
