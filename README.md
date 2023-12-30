@@ -12,4 +12,4 @@ Excel (Pivot chart) visualisation was used to analyse the key metrics; unit sold
 
 [Project 2: MAZAM Cookies Company  Financial Report 2018/2019](https://github.com/Biolaraji?tab=repositories)
 
-![MAZAM Cookies PowerBI.png](MAZAM Cookies PowerBI Dashboard.png)
+![AbiolAdeyemo.png](MAZAM Cookies PowerBI Dashboard.png)
