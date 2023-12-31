@@ -18,5 +18,5 @@ DAX was used to create different measures to give insight into sales performance
 
 The analysis engaged key metrics to analyse the contributions of the company's product towards its revenue and net profit.
 
-![MAZAMCookiesPowerBIDashboard.png](MAZAMCookiesPowerBIDashboard.png)
+![MAZAM Cookies PowerBI Dashboard.png](MAZAM Cookies PowerBI Dashboard.png)
 
