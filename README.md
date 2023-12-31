@@ -16,7 +16,15 @@ Analysis of a cookies company was carried out using PowerBI visualisation.
 
 DAX was used to create different measures to give insight into sales performance of the company's products accross different countries.
 
-The analysis engaged key metrics to analyse the contributions of the company's product towards its revenue and net profit.
+The analysis engaged key metrics to analyse the contributions of the company's product towards its revenue and net profit,and easy periodical comparison for insightful business decisions.
 
 ![MAZAM Cookies PowerBI Dashboard.png](MAZAM Cookies PowerBI Dashboard.png)
+
+[Project 3: HR Dashboard](https://github.com/Biolaraji?tab=repositories)
+
+The project is the PowerBI visual representation of organisations's employee distribution.
+
+Measures were created, using DAX expression, for analysis of proportional representation of gender, job levels and employees status for insight into resouces distribution analysis for informed business decision.
+
+![HRDashboard.png](HRDashborad.png)
 
