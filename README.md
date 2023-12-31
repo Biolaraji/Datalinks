@@ -20,4 +20,4 @@ The analysis engaged key metrics to analyse the contributions of the company's p
 
 
 
-![AbiolAdeyemo.png](MAZAM Cookies PowerBI Dashboard.png)
+![MAZAMCookiesPowerBIDashboard.png](MAZAMCookiesPowerBIDashboard.png)
