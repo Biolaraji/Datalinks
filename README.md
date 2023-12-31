@@ -10,6 +10,14 @@ Excel (Pivot chart) visualisation was used to analyse the key metrics; unit sold
 
 ![AbiolAdeyemo.png](AbiolaAdeyemo.png)
 
-[Project 2: MAZAM Cookies Company  Financial Report 2018/2019](https://github.com/Biolaraji?tab=repositories)
+[Project 2: Analysis of MAZAM Cookies Company  Financial Report 2018/2019](https://github.com/Biolaraji?tab=repositories)
+
+Analysis of a cookies company was carried out using PowerBI visualisation.
+
+DAX was used to create different measures to give insight into sales performance of the company's products accross different countries.
+
+The analysis engaged key metrics to analyse the contributions of the company's product towards its revenue and net profit.
+
+
 
 ![AbiolAdeyemo.png](MAZAM Cookies PowerBI Dashboard.png)
