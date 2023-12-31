@@ -26,5 +26,5 @@ The project is the PowerBI visual representation of organisations's employee dis
 
 Measures were created, using DAX expression, for analysis of proportional representation of gender, job levels and employees status for insight into resouces distribution analysis for informed business decision.
 
-![HRDashboard.png](HRDashborad.png)
+![HRDashboard.png](HRDashboard.png)
 
